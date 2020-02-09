@@ -1,0 +1,14 @@
+{
+  "name": "Activities",
+  "short_name": "Acts",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "A simply activities schedule application.",
+  "icons": [{
+    "src": "assets/img/activities.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }
+]
+}
